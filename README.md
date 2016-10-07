@@ -12,5 +12,9 @@ It is developed in the course TDT4290 at [NTNU](http://www.ntnu.no/) for the Nor
 
 # Collaborators
 
+# Installation guide
+
+# Harvesting process
+
 # License
 This software project is licensed under AGPL.
