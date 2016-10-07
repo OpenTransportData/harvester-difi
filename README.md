@@ -13,4 +13,4 @@ It is developed in the course TDT4290 at [NTNU](http://www.ntnu.no/) for the Nor
 # Collaborators
 
 # License
-This project is licensed under AGPL.
+This software project is licensed under AGPL.
